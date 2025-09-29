@@ -1,0 +1,51 @@
+{
+    "poll": {
+        "question": {
+            "text": "請針對自我介紹部分進行評分"
+        },
+        "answers": [
+            {
+                "answers_id": 1,
+                "text": "1"
+            },
+            {
+                "answers_id": 2,
+                "text": "2"
+            },
+            {
+                "answers_id": 3,
+                "text": "3"
+            },
+            {
+                "answers_id": 4,
+                "text": "4"
+            },
+            {
+                "answers_id": 5,
+                "text": "5"
+            },
+            {
+                "answers_id": 6,
+                "text": "6"
+            },
+            {
+                "answers_id": 7,
+                "text": "7"
+            },
+            {
+                "answers_id": 8,
+                "text": "8"
+            },
+            {
+                "answers_id": 9,
+                "text": "9"
+            },
+            {
+                "answers_id": 10,
+                "text": "10"
+            }
+        ],
+        "duration": 24,
+        "allow_multiselect": false
+    }
+}

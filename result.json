@@ -1,0 +1,1343 @@
+{
+  "responses": [
+    {
+      "responseId": "ACYDBNiIrwMcYMZjgbkQ9x0mlwLQRdH54yOHy8STdBPybhYOx4yUVZCDPxNrGVYAa095UfY",
+      "createTime": "2025-08-27T14:29:02.379Z",
+      "lastSubmittedTime": "2025-08-27T14:29:02.379915Z",
+      "respondentEmail": "saygoodbye0219@gmail.com",
+      "answers": {
+        "08af3974": {
+          "questionId": "08af3974",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "好ㄉ"
+              }
+            ]
+          }
+        },
+        "08aa22bf": {
+          "questionId": "08aa22bf",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "Yu_XiaoHong"
+              }
+            ]
+          }
+        },
+        "4d5093a5": {
+          "questionId": "4d5093a5",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "15格"
+              }
+            ]
+          }
+        },
+        "015ebc65": {
+          "questionId": "015ebc65",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "這台是我自己設計的320熔爐組，我在這熔爐組連接了一台炸石機，使燒製石頭變得更方便。"
+              }
+            ]
+          }
+        },
+        "205bffa9": {
+          "questionId": "205bffa9",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "平日看狀況、假日幾乎15小時左右"
+              }
+            ]
+          }
+        },
+        "20db3c1f": {
+          "questionId": "20db3c1f",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "馬上截圖至DC回報"
+              }
+            ]
+          }
+        },
+        "7c5977e0": {
+          "questionId": "7c5977e0",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "第一格放10個雪球，後面四格全各放1個木棍"
+              },
+              {
+                "value": "第一格放41個玻璃，後面四格全各放1個木棍"
+              }
+            ]
+          }
+        },
+        "31553a25": {
+          "questionId": "31553a25",
+          "grade": {
+            "score": 5,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0d053d2d": {
+          "questionId": "0d053d2d",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "後勤"
+              }
+            ]
+          }
+        },
+        "3efa64d8": {
+          "questionId": "3efa64d8",
+          "fileUploadAnswers": {
+            "answers": [
+              {
+                "fileId": "1SNZ9XSiFZ7nTfLgNBgwss3ciUOhgRqyV",
+                "fileName": "320熔爐組(含炸石機) By 小宏 - 愛玩遊戲的小米",
+                "mimeType": "application/octet-stream"
+              }
+            ]
+          },
+          "grade": {}
+        },
+        "52b45c60": {
+          "questionId": "52b45c60",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "怪物在距離玩家128格以外會立即消失"
+              },
+              {
+                "value": "非空氣方塊都會影響LC值"
+              },
+              {
+                "value": "刷怪平台Y值愈低，LC值愈低，刷怪效率愈高"
+              }
+            ]
+          }
+        },
+        "5dd8457b": {
+          "questionId": "5dd8457b",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "280"
+              }
+            ]
+          }
+        },
+        "42d58dd5": {
+          "questionId": "42d58dd5",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "15"
+              }
+            ]
+          }
+        },
+        "6b892e64": {
+          "questionId": "6b892e64",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "我目前是一位Minecraft伺服器的服主，我平常喜歡收集材料蓋蓋機器、剪片(實況或建造縮時)、我想在伺服器交朋友、學習生電等"
+              }
+            ]
+          }
+        },
+        "6bbfc9c8": {
+          "questionId": "6bbfc9c8",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "曉樂"
+              }
+            ]
+          }
+        },
+        "15d6e487": {
+          "questionId": "15d6e487",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "03a31641": {
+          "questionId": "03a31641",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "朋友介紹 (請在下一題填寫推薦人)"
+              }
+            ]
+          }
+        },
+        "7c808884": {
+          "questionId": "7c808884",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0069af93": {
+          "questionId": "0069af93",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "小宏Yu"
+              }
+            ]
+          }
+        },
+        "200fcd5b": {
+          "questionId": "200fcd5b",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "活塞能跨區塊更新"
+              }
+            ]
+          }
+        },
+        "599c2651": {
+          "questionId": "599c2651",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "12個"
+              }
+            ]
+          }
+        },
+        "39201f70": {
+          "questionId": "39201f70",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "6d3716b7": {
+          "questionId": "6d3716b7",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "男"
+              }
+            ]
+          }
+        }
+      },
+      "totalScore": 55
+    },
+    {
+      "responseId": "ACYDBNhLl_Mn-OiI4sGKsjDoQyDzjtt6Hz7MeoMauOTbMb4tPMEiE8WVLMoCghMmymVM0no",
+      "createTime": "2025-09-13T15:38:21.554Z",
+      "lastSubmittedTime": "2025-09-13T15:38:21.554841Z",
+      "respondentEmail": "a0966180120@gmail.com",
+      "answers": {
+        "08af3974": {
+          "questionId": "08af3974",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "好ㄉ"
+              }
+            ]
+          }
+        },
+        "70ebf9e9": {
+          "questionId": "70ebf9e9",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "想要一個很複雜的房子  這個第一次嘗試"
+              }
+            ]
+          }
+        },
+        "08aa22bf": {
+          "questionId": "08aa22bf",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "Joyphilosopht"
+              }
+            ]
+          }
+        },
+        "0d053d2d": {
+          "questionId": "0d053d2d",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "建築"
+              }
+            ]
+          }
+        },
+        "42d58dd5": {
+          "questionId": "42d58dd5",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "19"
+              }
+            ]
+          }
+        },
+        "6b892e64": {
+          "questionId": "6b892e64",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "喜歡玩遊戲  在mc裡面喜歡建築  紅石也會一點  主要是想跟朋友一起玩mc  入服以後主要是跟朋友一起生存 開發一塊我們自己的小天地   \n可以叫我樂樂或是阿樂  "
+              }
+            ]
+          }
+        },
+        "6bbfc9c8": {
+          "questionId": "6bbfc9c8",
+          "grade": {}
+        },
+        "03a31641": {
+          "questionId": "03a31641",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "MC List"
+              }
+            ]
+          }
+        },
+        "7c808884": {
+          "questionId": "7c808884",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0069af93": {
+          "questionId": "0069af93",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "hoo1128"
+              }
+            ]
+          }
+        },
+        "0e4efcd2": {
+          "questionId": "0e4efcd2",
+          "fileUploadAnswers": {
+            "answers": [
+              {
+                "fileId": "1XFFWpzGvnHXkGiCSBn2TBMq3MjPM0jXZ",
+                "fileName": "2025-08-18_13.16.22 - 啦啦啦.png",
+                "mimeType": "image/png"
+              }
+            ]
+          },
+          "grade": {}
+        },
+        "7f17232b": {
+          "questionId": "7f17232b",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "袖珍屋  "
+              }
+            ]
+          }
+        },
+        "6d3716b7": {
+          "questionId": "6d3716b7",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "女"
+              }
+            ]
+          }
+        },
+        "7234faeb": {
+          "questionId": "7234faeb",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "日式 歐式"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "responseId": "ACYDBNgmexbyfTFl2KTEwUdKh6S9SURFG9bn2itjygypO8s2BMMUxQ3dx1yBJuwQQk3r0TE",
+      "createTime": "2025-08-23T14:33:03.933Z",
+      "lastSubmittedTime": "2025-08-23T14:33:03.933179Z",
+      "respondentEmail": "markmarkcheng0730@gmail.com",
+      "answers": {
+        "08af3974": {
+          "questionId": "08af3974",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "好ㄉ"
+              }
+            ]
+          }
+        },
+        "08aa22bf": {
+          "questionId": "08aa22bf",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "GreenbeanS_B"
+              }
+            ]
+          }
+        },
+        "4d5093a5": {
+          "questionId": "4d5093a5",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "15格"
+              }
+            ]
+          }
+        },
+        "205bffa9": {
+          "questionId": "205bffa9",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "假日10-23，平日5-9.30"
+              }
+            ]
+          }
+        },
+        "20db3c1f": {
+          "questionId": "20db3c1f",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "馬上截圖至DC回報"
+              }
+            ]
+          }
+        },
+        "7c5977e0": {
+          "questionId": "7c5977e0",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "第一格放10個雪球，後面四格全各放1個木棍"
+              },
+              {
+                "value": "第一格放41個玻璃，後面四格全各放1個雞蛋"
+              },
+              {
+                "value": "第一格放41個玻璃，後面四格全各放1個木棍"
+              }
+            ]
+          }
+        },
+        "31553a25": {
+          "questionId": "31553a25",
+          "grade": {
+            "score": 5,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0d053d2d": {
+          "questionId": "0d053d2d",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "後勤"
+              }
+            ]
+          }
+        },
+        "3efa64d8": {
+          "questionId": "3efa64d8",
+          "fileUploadAnswers": {
+            "answers": [
+              {
+                "fileId": "1kVClphwXmJ94sL7hWGFgb8VWWEuIY6q6",
+                "fileName": "960FTL-HyperPro(1) - Green bean.litematic",
+                "mimeType": "application/x-gzip"
+              }
+            ]
+          },
+          "grade": {}
+        },
+        "52b45c60": {
+          "questionId": "52b45c60",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "偽和平可避免夜寐生成"
+              },
+              {
+                "value": "非空氣方塊都會影響LC值"
+              },
+              {
+                "value": "距離玩家半徑24格內不會自然刷新怪物"
+              }
+            ]
+          }
+        },
+        "5dd8457b": {
+          "questionId": "5dd8457b",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "200"
+              }
+            ]
+          }
+        },
+        "42d58dd5": {
+          "questionId": "42d58dd5",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "13"
+              }
+            ]
+          }
+        },
+        "6b892e64": {
+          "questionId": "6b892e64",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "我是一個2000多訂閲的小主包，喜歡打籃球(FR) ，我在生電服被樂拉進來就想來幫幫忙，順便拍點影片。性格非常内向，一跟陌生人説話就結巴(語音),所以可能較少進入語音聊天，希望入服後可以幫忙做一下一些實裝和後勤來幫幫忙(養老)"
+              }
+            ]
+          }
+        },
+        "6bbfc9c8": {
+          "questionId": "6bbfc9c8",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "樂"
+              }
+            ]
+          }
+        },
+        "15d6e487": {
+          "questionId": "15d6e487",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "03a31641": {
+          "questionId": "03a31641",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "朋友介紹 (請在下一題填寫推薦人)"
+              }
+            ]
+          }
+        },
+        "7c808884": {
+          "questionId": "7c808884",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0069af93": {
+          "questionId": "0069af93",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "id: sbgreenbean 昵稱: Greenbean"
+              }
+            ]
+          }
+        },
+        "200fcd5b": {
+          "questionId": "200fcd5b",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "活塞能接收到毗鄰方塊的紅石訊號"
+              }
+            ]
+          }
+        },
+        "599c2651": {
+          "questionId": "599c2651",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "12個"
+              }
+            ]
+          }
+        },
+        "39201f70": {
+          "questionId": "39201f70",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "6d3716b7": {
+          "questionId": "6d3716b7",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "男"
+              }
+            ]
+          }
+        }
+      },
+      "totalScore": 25
+    },
+    {
+      "responseId": "ACYDBNj6H2IbUeg6ZJYX_ET_kWunaUQkVu8DYcXFozZg7CQqSoWz5r3cKJ2iGapsgYuQjiw",
+      "createTime": "2025-08-25T05:14:01.240Z",
+      "lastSubmittedTime": "2025-08-25T05:14:01.240828Z",
+      "respondentEmail": "jian98324@gmail.com",
+      "answers": {
+        "08af3974": {
+          "questionId": "08af3974",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "好ㄉ"
+              }
+            ]
+          }
+        },
+        "08aa22bf": {
+          "questionId": "08aa22bf",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "AJ4AJ"
+              }
+            ]
+          }
+        },
+        "4d5093a5": {
+          "questionId": "4d5093a5",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "15格"
+              }
+            ]
+          }
+        },
+        "015ebc65": {
+          "questionId": "015ebc65",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "y0藍冰豬人塔  從y128~y0 炸出128x128 區塊以四個為中心 才能達到高效率(此作品位於廢土伺服器)"
+              }
+            ]
+          }
+        },
+        "205bffa9": {
+          "questionId": "205bffa9",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "每天基本5小時起跳"
+              }
+            ]
+          }
+        },
+        "20db3c1f": {
+          "questionId": "20db3c1f",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "馬上截圖至DC回報"
+              }
+            ]
+          }
+        },
+        "7c5977e0": {
+          "questionId": "7c5977e0",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "第一格放41個玻璃，後面四格全各放1個木棍"
+              }
+            ]
+          }
+        },
+        "31553a25": {
+          "questionId": "31553a25",
+          "grade": {
+            "score": 5,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0d053d2d": {
+          "questionId": "0d053d2d",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "後勤"
+              }
+            ]
+          }
+        },
+        "3efa64d8": {
+          "questionId": "3efa64d8",
+          "fileUploadAnswers": {
+            "answers": [
+              {
+                "fileId": "1kL95yXG9UueyWKYF1IPmc90vALJ7SjOG",
+                "fileName": "螢幕擷取畫面 2025-08-25 130850 - 建1.png",
+                "mimeType": "image/png"
+              }
+            ]
+          },
+          "grade": {}
+        },
+        "52b45c60": {
+          "questionId": "52b45c60",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "怪物在距離玩家128格以外會立即消失"
+              },
+              {
+                "value": "距離玩家半徑24格內不會自然刷新怪物"
+              },
+              {
+                "value": "刷怪平台Y值愈低，LC值愈低，刷怪效率愈高"
+              }
+            ]
+          }
+        },
+        "5dd8457b": {
+          "questionId": "5dd8457b",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "280"
+              }
+            ]
+          }
+        },
+        "42d58dd5": {
+          "questionId": "42d58dd5",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "19"
+              }
+            ]
+          }
+        },
+        "6b892e64": {
+          "questionId": "6b892e64",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "我是AJ4AJ可以稱呼我為AJ.今年要大二了,喜歡找朋友一起遊玩一些遊戲,如Minecraft生存,模組等等,或者是一些團隊遊戲與朋友聊天互動。\nMinecraft 是最喜歡的遊戲之一，例如廢土伺服器,後來發現「花火生電伺服器」,沒玩過生電就想說來體驗看看\n我想來這個伺服器還有個原因,就是想找個不同風格的「McList 伺服器列表」中有個叫做Sparkle花火 生電伺服器\n\n我加入這個伺服器，主要還是希望能認識新朋友，一起交流、學習建築,紅石技巧，並體驗不同的遊戲模式，探索更多可能性。期待在這裡度過一段愉快的時光。"
+              }
+            ]
+          }
+        },
+        "6bbfc9c8": {
+          "questionId": "6bbfc9c8",
+          "grade": {}
+        },
+        "15d6e487": {
+          "questionId": "15d6e487",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "否"
+              }
+            ]
+          }
+        },
+        "03a31641": {
+          "questionId": "03a31641",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "MC List"
+              }
+            ]
+          }
+        },
+        "7c808884": {
+          "questionId": "7c808884",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0069af93": {
+          "questionId": "0069af93",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "AJIAN"
+              }
+            ]
+          }
+        },
+        "200fcd5b": {
+          "questionId": "200fcd5b",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "活塞能接收到毗鄰方塊的紅石訊號"
+              }
+            ]
+          }
+        },
+        "599c2651": {
+          "questionId": "599c2651",
+          "grade": {
+            "score": 10,
+            "correct": true
+          },
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "12個"
+              }
+            ]
+          }
+        },
+        "39201f70": {
+          "questionId": "39201f70",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "否"
+              }
+            ]
+          }
+        },
+        "6d3716b7": {
+          "questionId": "6d3716b7",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "男"
+              }
+            ]
+          }
+        }
+      },
+      "totalScore": 35
+    },
+    {
+      "responseId": "ACYDBNjyogmvEHwvHre-B4XFWFzimZEW3OQUUE0XXOx1J07_G_buow5UKp4vKRQzs3V9rQE",
+      "createTime": "2025-09-15T11:32:13.354Z",
+      "lastSubmittedTime": "2025-09-15T11:32:13.354679Z",
+      "respondentEmail": "linzerhp1228@gmail.com",
+      "answers": {
+        "39520475": {
+          "questionId": "39520475",
+          "fileUploadAnswers": {
+            "answers": [
+              {
+                "fileId": "1tmmYa7QTkL6l6Cz7OMjwVZEWJU50ekFx",
+                "fileName": "tnt掠奪諸人塔 - Ethereal XL.png",
+                "mimeType": "image/png"
+              },
+              {
+                "fileId": "1xOBXjbqCxtS7_v-Ji8UadXEywkAjb4OZ",
+                "fileName": "分整流全物品 - Ethereal XL.png",
+                "mimeType": "image/png"
+              },
+              {
+                "fileId": "1GiAhBOQVxOLoBiGihukxxObL2NO9xmHg",
+                "fileName": "盒流全物品 - Ethereal XL.png",
+                "mimeType": "image/png"
+              }
+            ]
+          },
+          "grade": {}
+        },
+        "08af3974": {
+          "questionId": "08af3974",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "好ㄉ"
+              }
+            ]
+          }
+        },
+        "7a058994": {
+          "questionId": "7a058994",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "盒流全物品的所有邏輯都有并且特點在於零件功能很一體化，例如實體分盒器前置的不可堆叠分離即可把需要進入不可堆叠分類的物品分出去，在一般分盒器中此流程需要加入四分儀來繼續分出盒子和不可堆叠。純盒白名單兼具滿盒非滿盒分離，其中滿盒具有mbs的功能即分水道，在其他流程中白名單需要加mbs才可分水道。\n不同綫路，不同種類水道均有明確劃分，根據顔色分爲不同種類，方便理解和維護。"
+              }
+            ]
+          }
+        },
+        "08aa22bf": {
+          "questionId": "08aa22bf",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "LinzerHP"
+              }
+            ]
+          }
+        },
+        "3b37a927": {
+          "questionId": "3b37a927",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "儲電，設計收集"
+              }
+            ]
+          }
+        },
+        "0d053d2d": {
+          "questionId": "0d053d2d",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "紅石"
+              }
+            ]
+          }
+        },
+        "5469669b": {
+          "questionId": "5469669b",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "https://www.bilibili.com/video/BV1dBHqzqEsn"
+              }
+            ]
+          }
+        },
+        "42d58dd5": {
+          "questionId": "42d58dd5",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "23"
+              }
+            ]
+          }
+        },
+        "6b892e64": {
+          "questionId": "6b892e64",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "我是 Linzer。\n\n我的個性算是外向裡帶點思考型的，平常樂於跟人互動，也能在團隊裡做協調跟推進的角色。有時候就喜歡去嘗試一些新鮮的玩法，遇到問題的時候也會冷靜下來分析、解決。\n\n我擅長動手操作，對電腦軟硬體算熟，比如電腦組裝、伺服器設定跟優化之類的。在 Minecraft 裡，我比較偏技術型跟探索型玩家，對模組研究、設定調整還有紅石邏輯都有一些經驗。另外在伺服器管理、Mod 問題排查這方面也有蠻紮實的經驗，可以比較快定位並解決崩潰或相容性的問題。\n\n我很喜歡聽音樂，尤其是那種史詩、幻想、電子/管弦混合風格的作品（像 Two Steps From Hell、Ivan Torrent 這些）。平常也會寫一些夢境紀錄，把它們整理成類似幻想小說的片段。除此之外，也會玩一些其他遊戲，像 CS2、GTA5 之類，換個心情。\n\n我希望在伺服器裡，不只是找到一個遊玩的地方，更能遇到可以聊天、合作、分享想法的夥伴。我很享受在 Minecraft 裡面折騰各種新奇的玩法，也很樂意跟大家一起建設、討論、開腦洞。"
+              }
+            ]
+          }
+        },
+        "6bbfc9c8": {
+          "questionId": "6bbfc9c8",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "雨伞"
+              }
+            ]
+          }
+        },
+        "03a31641": {
+          "questionId": "03a31641",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "朋友介紹 (請在下一題填寫推薦人)"
+              }
+            ]
+          }
+        },
+        "7c808884": {
+          "questionId": "7c808884",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0069af93": {
+          "questionId": "0069af93",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "linzerhp"
+              }
+            ]
+          }
+        },
+        "774ea87d": {
+          "questionId": "774ea87d",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "21年購買正版麥塊，22年接觸bilibili黑山大叔的視頻並學會投影，在2.10製作第一款投影即爲物品分類投影，此後兩年陸續完成breeze的一字型全物品，1920熔爐組，對炸空置域的流程最爲熟悉，參與過史萊姆棋盤門切門過程，聲音抑制y0豬人塔換底過程，平日一般都是個人玩，偶爾和一些朋友開服玩，24年上半年開始著手從0研究全物品，按照wreg的分整流全物品https://www.bilibili.com/video/BV1hN411a781邏輯創作出第一款分整流全物品，但對此款全物品并不滿意，遂停止發佈視頻和實裝，在24年10月開始研發盒流全物品，后因工作原因推遲，直到今年8月份研發完畢，且均使用最新款零件製作并且實裝並發佈視頻：https://www.bilibili.com/video/BV1dBHqzqEsn"
+              }
+            ]
+          }
+        },
+        "6d3716b7": {
+          "questionId": "6d3716b7",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "男"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "responseId": "ACYDBNjpRjZlFQuZTgp1in_yH24YH70bIivTox7B0G8TSBtk9QgwAQDnW0n4jNdhUUvOWJo",
+      "createTime": "2025-09-13T15:33:58.665Z",
+      "lastSubmittedTime": "2025-09-13T15:33:58.665272Z",
+      "respondentEmail": "alandiabolo.minecraft@gmail.com",
+      "answers": {
+        "08af3974": {
+          "questionId": "08af3974",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "好ㄉ"
+              }
+            ]
+          }
+        },
+        "70ebf9e9": {
+          "questionId": "70ebf9e9",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "走一個魔幻的風格?"
+              }
+            ]
+          }
+        },
+        "08aa22bf": {
+          "questionId": "08aa22bf",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "huanalan223"
+              }
+            ]
+          }
+        },
+        "0d053d2d": {
+          "questionId": "0d053d2d",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "建築"
+              }
+            ]
+          }
+        },
+        "42d58dd5": {
+          "questionId": "42d58dd5",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "21"
+              }
+            ]
+          }
+        },
+        "6b892e64": {
+          "questionId": "6b892e64",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "想要跟朋友一起完賣快 開學後有些無聊的時間上來養老 佛系玩家 賣快玩了6年 去過很多伺服器 但最近之前一起玩的朋友都退坑 不知道跑去哪了"
+              }
+            ]
+          }
+        },
+        "6bbfc9c8": {
+          "questionId": "6bbfc9c8",
+          "grade": {}
+        },
+        "03a31641": {
+          "questionId": "03a31641",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "MC List"
+              }
+            ]
+          }
+        },
+        "7c808884": {
+          "questionId": "7c808884",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "是"
+              }
+            ]
+          }
+        },
+        "0069af93": {
+          "questionId": "0069af93",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "66"
+              }
+            ]
+          }
+        },
+        "0e4efcd2": {
+          "questionId": "0e4efcd2",
+          "fileUploadAnswers": {
+            "answers": [
+              {
+                "fileId": "1k7CSX68fFaPDdA-5E4k6pzX9DbKn87z1",
+                "fileName": "image - 錦瑟年華.png",
+                "mimeType": "image/png"
+              }
+            ]
+          },
+          "grade": {}
+        },
+        "7f17232b": {
+          "questionId": "7f17232b",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "無"
+              }
+            ]
+          }
+        },
+        "6d3716b7": {
+          "questionId": "6d3716b7",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "男"
+              }
+            ]
+          }
+        },
+        "7234faeb": {
+          "questionId": "7234faeb",
+          "grade": {},
+          "textAnswers": {
+            "answers": [
+              {
+                "value": "日式"
+              }
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

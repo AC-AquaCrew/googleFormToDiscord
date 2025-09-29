@@ -1,0 +1,13 @@
+{
+    "embed": {
+        "title": "自我介紹",
+        "color": 0,
+        "fields": [
+            {
+                "name": "內容",
+                "value": "",
+                "inline": false
+            }
+        ]
+    }
+}

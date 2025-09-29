@@ -1,0 +1,93 @@
+{
+    "embed": {
+        "title": "作答內容",
+        "color": 0,
+        "fields": [
+            {
+                "name": "Discord暱稱:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "minecraft id:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "年紀:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "性別:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "組別:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "機器、建築等損毀時，你會怎麼做?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "上線頻率與時間:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "是否曾經接觸過生電玩法?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "在java版中，對於敵對生物生成敘述何者正確?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "紅石粉最遠的傳輸距離為何?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "活塞最多可推動多少個方塊?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "有關半連接性(QC)的敘述何者錯誤?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "在伺服器中有 4 名玩家同時在線，且彼此相距足夠遠，使得各自的刷怪範圍不重疊。此時整個主世界總共可能同時存在的敵對生物理論上限為多少?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "這是一個簡易的分類機，請問最上方的漏斗應該如何填入物品?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "請問您是否會使用 litematica 投影模組?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "請問您是否使用過任何形式的切門裝置?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "獲得分數:",
+                "value": "",
+                "inline": false
+            }
+        ]
+    }
+}

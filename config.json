@@ -1,0 +1,11 @@
+{
+    "botConfig": {
+        "serverId": "",
+        "channelId": "",
+        "botToken": ""
+    },
+    "formConfig": {
+        "keyFilePath": "",
+        "formId": ""
+    }
+}

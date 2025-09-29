@@ -1,0 +1,18 @@
+{
+    "embed": {
+        "title": "附加檔案(圖片或投影)",
+        "color": 0,
+        "fields": [
+            {
+                "name": "檔案名稱(上傳時檔案名稱+使用google帳號名稱):",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "檔案連結:",
+                "value": "",
+                "inline": false
+            }
+        ]
+    }
+}

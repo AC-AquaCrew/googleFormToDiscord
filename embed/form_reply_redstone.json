@@ -1,0 +1,53 @@
+{
+    "embed": {
+        "title": "建築審核",
+        "color": 0,
+        "fields": [
+            {
+                "name": "Discord暱稱:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "minecraft id:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "年紀:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "性別:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "組別:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "擅長的領域為何?",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "接觸紅石的經歷:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "作品連結或其它備註:",
+                "value": "",
+                "inline": false
+            },
+            {
+                "name": "作品介紹:",
+                "value": "",
+                "inline": false
+            }
+        ]
+    }
+}
