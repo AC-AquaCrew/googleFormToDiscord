@@ -1,0 +1,9 @@
+{
+    "command": [
+        {
+            "name": "scores",
+            "description": "結算投票的分數",
+            "type": 1
+        }
+    ]
+}

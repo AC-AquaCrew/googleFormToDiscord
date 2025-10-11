@@ -170,7 +170,8 @@ async function runDiscordBot() {
                         await thread.send({ embeds: [form_reply_self_embed.embed] });
 
                         const pollData = require('./poll.json');
-                        await thread.send({ poll: pollData.poll });
+                        const pollMessage = await thread.send({ poll: pollData.poll, fetchReply: true });
+                        fse.writeFileSync(`./pollData/${pollMessage.channel.id}.txt`, `${pollMessage.id}`, 'utf-8');
 
                         console.log(`Sent message with ID: ${sentMessage.id}`);
                         client.destroy();
@@ -229,7 +230,8 @@ async function runDiscordBot() {
                         await thread.send({ embeds: [form_reply_self_embed.embed] });
 
                         const pollData = require('./poll.json');
-                        await thread.send({ poll: pollData.poll });
+                        const pollMessage = await thread.send({ poll: pollData.poll, fetchReply: true });
+                        fse.writeFileSync(`./pollData/${pollMessage.channel.id}.txt`, `${pollMessage.id}`, 'utf-8');
 
                         console.log(`Sent message with ID: ${sentMessage.id}`);
                         client.destroy();
@@ -289,7 +291,8 @@ async function runDiscordBot() {
                         await thread.send({ embeds: [file_embed.embed] });
 
                         const pollData = require('./poll.json');
-                        await thread.send({ poll: pollData.poll });
+                        const pollMessage = await thread.send({ poll: pollData.poll, fetchReply: true });
+                        fse.writeFileSync(`./pollData/${pollMessage.channel.id}.txt`, `${pollMessage.id}`, 'utf-8');
 
                         console.log(`Sent message with ID: ${sentMessage.id}`);
                         client.destroy();
